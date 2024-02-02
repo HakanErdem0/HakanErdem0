@@ -1,5 +1,3 @@
- [![MasterHead](http:ile istediginiz fotoğrafın linkini buraya yazın)
-
 <h1 align="center">Hi 👋, I'm Hakan Erdem</h1>
 <h3 align="center">A fullstack web developer living in Turkey who loves his job.</h3>
 
