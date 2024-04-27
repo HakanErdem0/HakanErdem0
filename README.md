@@ -1,4 +1,4 @@
-<h3 align="center">Assoc. Python Developer</h3>
+<h3 align="center">Assistant Python Developer</h3>
 
 - 💬 Ask me about **Python, Django, Tkinter, PyQt, PyGame**
 
