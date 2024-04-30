@@ -1,6 +1,6 @@
 <h3 align="center">Assistant Python Developer</h3>
 
-- 💬 Ask me about **Python, Flask, Tkinter, PyGame**
+- 💬 Ask me about **Python, Django, Tkinter**
 
 - 📫 How to reach me **business.hakann@gmail.com**
 
