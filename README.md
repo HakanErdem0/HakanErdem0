@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan Erdem</h1>
 <h3 align="center">Web Developer</h3>
 
-- 💬 Ask me about **Web Development, Programming, JavaScript etc.**
+- 💬 Ask me about **Web Development, Programming etc.**
 
 - 📫 How to reach me **business.hakann@gmail.com**
 
