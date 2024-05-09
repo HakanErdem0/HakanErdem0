@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan Erdem</h1>
 <h3 align="center">Web Developer</h3>
 
-- 💬 Ask me about **Python, Django, Tkinter, PyGame**
+- 💬 Ask me about **Web Development, JavaScript etc.**
 
 - 📫 How to reach me **business.hakann@gmail.com**
 
