@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan Erdem</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on **TıktaBul, OrbitWisp**
+- 🔭 I’m currently working on **OrbitWisp**
 
 - 💬 Ask me about **Programming, JavaScript**
 
