@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Hakan Erdem</h1>
 <h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on **TıktaBul, OrbitWisp**
 
-- 👯 I’m looking to collaborate on **Programming, Web Development, Artifical Intelligence, Blockchain**
+- 👯 I’m looking to collaborate on **Programming, JavaScript, Web Development**
 
 - 🤝 I’m looking for help with **business.hakann@gmail.com**
 
