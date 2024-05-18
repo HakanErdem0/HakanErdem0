@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **Front End Development**
 
-- 💬 You can reach me at **business.hakann@gmail.com**
-
 - 📜 My skills **Python, Javascript, Node.js etc.**
+
+- 💬 You can reach me at **business.hakann@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
