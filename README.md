@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **business.hakann@gmail.com**
 
-- 📜 My skills **Python, Javascript, Node.js, React etc.**
+- 📜 My skills **Python, Javascript, Node.js etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
