@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development, Artifical Intelligence, Blockchain**
 
-- 🤝 I’m looking for help with **business.hakann@gmail.com**
+- 🤝 I’m looking for help with **Front End Development**
 
 - 📜 My skills **Python, Javascript, Node.js etc.**
 
@@ -14,4 +14,7 @@
 <a href="https://twitter.com/orbitwisp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orbitwisp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hakan-erdem-6b1ba22b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakan-erdem-6b1ba22b3" height="30" width="40" /></a>
 <a href="https://instagram.com/hakanlerdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakanlerdem" height="30" width="40" /></a>
+<a href="mailto:business.hakann@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@example.com" height="30" width="40" /></a>
+
 </p>
+
