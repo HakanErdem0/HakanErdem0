@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **TıktaBul, OrbitWisp**
 
-- 👯 I’m looking to collaborate on **Web Development, Artifical Intelligence, Blockchain**
+- 👯 I’m looking to collaborate on **Game Development, Web Development, Artifical Intelligence, Blockchain**
 
 - 🤝 I’m looking for help with **Front End Development**
 
-- 📜 My skills **Python, Javascript, Node.js etc.**
+- 📜 My skills **Python, Javascript, React, Redux, etc.**
 
 - 💬 You can reach me at **business.hakann@gmail.com**
 
