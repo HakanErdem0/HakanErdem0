@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Front End Development**
 
-- 📜 My skills **Python, Javascript, React, Redux, etc.**
+- 📜 My skills **Python, Javascript, React etc.**
 
 - 💬 You can reach me at **business.hakann@gmail.com**
 
