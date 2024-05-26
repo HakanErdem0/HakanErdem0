@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TıktaBul, Artifical Development**
 
-- 👯 I’m looking to collaborate on **Game Development, Web Development, Artifical Intelligence, Blockchain**
+- 👯 I’m looking to collaborate on **Web Development, Machine Learning**
 
 - 🤝 I’m looking for help with **Front End Development**
 
